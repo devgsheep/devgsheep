@@ -5,6 +5,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 커뮤니케이션에 강한 프론트엔드 개발자 김지양 입니다 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 사용자의 경험을 중요시 하며, 팀과의 적극적인 소통을 통해 더 나은 결과를 만들기 위해 항상 노력하고 있습니다. </div> 
     </div>
+    <div>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={(https://github.com/devgsheep)}&theme=warm)
+        <img src="http://mazandi.herokuapp.com/api?handle={(https://github.com/devgsheep)}&theme=warm"/>
+    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
