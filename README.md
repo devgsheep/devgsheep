@@ -6,8 +6,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 사용자의 경험을 중요시 하며, 팀과의 적극적인 소통을 통해 더 나은 결과를 만들기 위해 항상 노력하고 있습니다. </div> 
     </div>
     <div>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={(https://github.com/devgsheep)}&theme=warm)
-        <img src="http://mazandi.herokuapp.com/api?handle={(https://github.com/devgsheep)}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle="https://github.com/devgsheep"&theme=warm)
+        <img src="http://mazandi.herokuapp.com/api?handle="https://github.com/devgsheep"&theme=warm"/>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
